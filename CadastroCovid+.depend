@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621973163 source:c:\users\adrianopc\documents\pim_iv\cadastrocovid+\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
